@@ -5,13 +5,13 @@ about:
   head: 3c72912
   archived: false
   latestVersion: "v1.0.0"
-  collectedAt: 2026-09-07T05:13:38Z
+  collectedAt: 2026-09-07T19:15:41Z
 timeline:
   created: 2026-06-04
   lastCommit: 2026-07-25
   lastRelease: 2026-06-15
 popularity:
-  star: 5412
+  star: 5414
   watcher: 11
   fork: 290
   release: 1
@@ -82,7 +82,7 @@ total:
   commit: 93
 ---
 path: /home/runner/.x-repo/github.com/diffusionstudio/lottie
-collectedAt: 2026-09-07T05:13:39Z
+collectedAt: 2026-09-07T19:15:42Z
 loc:
   Tsx:
     code: 2428
@@ -133,7 +133,7 @@ total:
 
 ---
 eget:
-  collectedAt: 2026-09-07T05:13:40+00:00
+  collectedAt: 2026-09-07T19:15:42+00:00
   platform:
     darwin/arm64:
       name:  null
