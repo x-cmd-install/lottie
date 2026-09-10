@@ -7,7 +7,7 @@ about:
   latestVersion: "v1.0.0"
   latestRelease: "v1.0.0"
   latestPrerelease: ""
-  collectedAt: 2026-09-10T05:18:59Z
+  collectedAt: 2026-09-10T17:10:44Z
 timeline:
   created: 2026-06-04
   lastCommit: 2026-07-25
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 2026-06-15
   lastPrerelease: 
 popularity:
-  star: 5436
+  star: 5438
   watcher: 11
   fork: 291
   release: 1
@@ -86,7 +86,7 @@ total:
   commit: 93
 ---
 path: /home/runner/.x-repo/github.com/diffusionstudio/lottie
-collectedAt: 2026-09-10T05:19:00Z
+collectedAt: 2026-09-10T17:10:44Z
 loc:
   Tsx:
     code: 2428
