@@ -7,7 +7,7 @@ about:
   latestVersion: "v1.0.0"
   latestRelease: "v1.0.0"
   latestPrerelease: ""
-  collectedAt: 2026-11-27T09:08:45Z
+  collectedAt: 2026-11-28T08:22:33Z
 timeline:
   created: 2026-06-04
   lastCommit: 2026-07-25
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 2026-06-15
   lastPrerelease: 
 popularity:
-  star: 5832
+  star: 5837
   watcher: 11
   fork: 308
   release: 1
@@ -30,7 +30,7 @@ language:
 totalBytes: 182604
 recent:
   last30d:
-    since: 2026-10-28
+    since: 2026-10-29
     release: 0
     mergedPR: 0
     openPR: 0
@@ -38,7 +38,7 @@ recent:
     openIssue: 0
     commit: 0
   last60d:
-    since: 2026-09-28
+    since: 2026-09-29
     release: 0
     mergedPR: 0
     openPR: 1
@@ -46,7 +46,7 @@ recent:
     openIssue: 0
     commit: 0
   last90d:
-    since: 2026-08-29
+    since: 2026-08-30
     release: 0
     mergedPR: 0
     openPR: 1
@@ -54,23 +54,23 @@ recent:
     openIssue: 0
     commit: 0
   last180d:
-    since: 2026-05-31
+    since: 2026-06-01
     release: 1
     mergedPR: 10
     openPR: 1
     closedIssue: 4
     openIssue: 0
-    commit: 83
+    commit: 0
   last360d:
-    since: 2025-12-02
+    since: 2025-12-03
     release: 1
     mergedPR: 10
     openPR: 1
     closedIssue: 4
     openIssue: 0
-    commit: 83
+    commit: 0
   last720d:
-    since: 2024-12-07
+    since: 2024-12-08
     release: 1
     mergedPR: 10
     openPR: 1
@@ -86,7 +86,7 @@ total:
   commit: 93
 ---
 path: /home/runner/.x-repo/github.com/diffusionstudio/lottie
-collectedAt: 2026-11-27T09:08:45Z
+collectedAt: 2026-11-28T08:22:34Z
 loc:
   Tsx:
     code: 2428
